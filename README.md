@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ehddud135/Algorithm/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/ehddud135/Algorithm/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/ehddud135/Algorithm/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
