@@ -17,5 +17,7 @@ class Solution(object):
         """
         :type x: int
         :rtype: int
+        **integer.maxvalue = 2147483647
+        **integer.minvalue = -2147483647
         """
         
