@@ -4,10 +4,10 @@ class Solution(object):
         print(s)
         split_result = s.split()
         print(split_result)
-        result = len(split_result)
-        print(result)
+        last_word = len(split_result) - 1
+        print(last_word)
 
-        return len(split_result[result-1])
+        return len(split_result[last_word])
         """
         :type s: str
         :rtype: int
