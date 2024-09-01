@@ -23,5 +23,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/ehddud135/Algorithm/tree/master/0058-length-of-last-word) |
 | [1894-merge-strings-alternately](https://github.com/ehddud135/Algorithm/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
